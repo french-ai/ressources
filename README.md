@@ -13,8 +13,8 @@
 
 ## Book
 
-- Deep Learning | Aaron Courville, Ian Goodfellow and Yoshua Bengio :star:
-- Deep Learning with Python |  François Chollet
+- Deep Learning | Aaron Courville, Ian Goodfellow and Yoshua Bengio :gb: | :fr: :star:
+- Deep Learning with Python |  François Chollet | :gb:
 
 ## Video
 
@@ -31,7 +31,7 @@
 
 ## Book
 
-- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) | Andrew Barto and Richard Sutton :star:
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) | Andrew Barto and Richard Sutton | :gb: :star:
 
 ## Video
 
@@ -47,9 +47,9 @@
 
 ## Book
 
-- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) |  Jerome H. Friedman, Robert Tibshirani and Trevor Hastie
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) |  Jerome H. Friedman, Robert Tibshirani and Trevor Hastie | :gb:
 
-- [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | Christopher Bishop
+- [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | Christopher Bishop | :gb:
 
 
 ## Videos
