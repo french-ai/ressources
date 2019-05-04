@@ -13,7 +13,7 @@
 
 ## Book
 
-- Deep Learning | Aaron Courville, Ian Goodfellow and Yoshua Bengio :gb: | :fr: :star:
+- Deep Learning | Aaron Courville, Ian Goodfellow and Yoshua Bengio | :gb:  :fr: :star:
 - Deep Learning with Python |  François Chollet | :gb:
 
 ## Video
@@ -34,6 +34,11 @@
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) | Andrew Barto and Richard Sutton | :gb: :star:
 
 ## Video
+- [Playlist : Apprentissage par renforcement](https://www.youtube.com/watch?v=PKNxUF9CGn8&list=PLpEPgC7cUJ4YPZlfUu0vQTwPraVKPASUa) | :fr: 
+- [An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) | :gb:
+- [Overcoming sparse rewards in Deep RL: Curiosity, hindsight & auxiliary tasks.](https://youtu.be/0Ey02HT_1Ho) | :gb:
+- [Policy Gradient methods and Proximal Policy Optimization (PPO): diving into Deep RL!](https://youtu.be/5P7I-xPq8u8) | :gb:
+
 
 ## Blog
 
@@ -52,7 +57,7 @@
 - [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | Christopher Bishop | :gb:
 
 
-## Videos
+## Video
 
 ## Blog
 
@@ -67,7 +72,7 @@
 
 ## Book
 
-## Videos
+## Video
 
 ## Blog
 
@@ -79,7 +84,7 @@
 
 ## Book
 
-## Videos
+## Video
 
 ## Blog
 
