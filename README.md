@@ -93,5 +93,6 @@
 - [Seaborn](https://seaborn.pydata.org/index.html)
 - [Plotly](https://plot.ly/)
 - [Bokeh](https://bokeh.pydata.org/en/latest/)
+- [Plotnine](https://plotnine.readthedocs.io/en/stable/index.html)
 
 # MOAR
