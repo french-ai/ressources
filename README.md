@@ -75,7 +75,7 @@
 ## Video
 
 ## Blog
-
+- [Target Encoding Done The Right Way](https://maxhalford.github.io/blog/target-encoding-done-the-right-way/) | [Max Halford](https://github.com/MaxHalford) | :gb:
 ## Framework
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://www.numpy.org/)
