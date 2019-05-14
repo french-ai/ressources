@@ -41,7 +41,7 @@
 
 
 ## Blog
-
+- [Proximal Policy Optimization Algorithms - PPO](http://blog.varunajayasiri.com/ml/ppo.html) | Varuna Jayasiri | :gb:
 ## Framework
 - [Gym](https://gym.openai.com/)
 - [Baselines](https://github.com/openai/baselines)
