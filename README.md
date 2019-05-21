@@ -18,6 +18,11 @@
 
 ## Video
 
+- [Andrew Ng course](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w) | Andrew Ng | :gb: :star:
+- [Fast ai course](https://www.youtube.com/user/howardjeremyp/playlists) | Jeremy Howard | :gb: :star:
+- [Deepmind : Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | Deepmind |:gb:
+
+
 ## Blog
 
 ## Framework
@@ -38,7 +43,7 @@
 - [An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) | :gb:
 - [Overcoming sparse rewards in Deep RL: Curiosity, hindsight & auxiliary tasks.](https://youtu.be/0Ey02HT_1Ho) | :gb:
 - [Policy Gradient methods and Proximal Policy Optimization (PPO): diving into Deep RL!](https://youtu.be/5P7I-xPq8u8) | :gb:
-
+- [Deepmind : Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | Deepmind |:gb:
 
 ## Blog
 - [Proximal Policy Optimization Algorithms - PPO](http://blog.varunajayasiri.com/ml/ppo.html) | Varuna Jayasiri | :gb:
