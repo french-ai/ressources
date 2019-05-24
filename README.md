@@ -52,6 +52,7 @@
 - [Baselines](https://github.com/openai/baselines)
 - [Dopamine](https://github.com/google/dopamine)
 - [Tensorforce](https://github.com/tensorforce/tensorforce)
+- [stable-baselines](https://github.com/hill-a/stable-baselines)
 
 # Machine learning
 
@@ -101,3 +102,9 @@
 - [Plotnine](https://plotnine.readthedocs.io/en/stable/index.html)
 
 # MOAR
+
+## Awesome repo
+- [Deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | :gb:
+- [Deep reinforcement learning](https://github.com/aikorea/awesome-rl) | :gb:
+- [Machine learning](https://github.com/josephmisiti/awesome-machine-learning) | :gb:
+- [Data visualization](https://github.com/fasouto/awesome-dataviz) | :gb:
