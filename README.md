@@ -18,6 +18,7 @@
 
 ## Video
 
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) | Deeplearning.ai | :gb: :star: :star: :star:
 - [Andrew Ng course](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w) | Andrew Ng | :gb: :star:
 - [Fast ai course](https://www.youtube.com/user/howardjeremyp/playlists) | Jeremy Howard | :gb: :star:
 - [Deepmind : Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | Deepmind |:gb:
@@ -82,9 +83,12 @@
 
 ## Blog
 - [Target Encoding Done The Right Way](https://maxhalford.github.io/blog/target-encoding-done-the-right-way/) | [Max Halford](https://github.com/MaxHalford) | :gb:
+- [Web-scraping avec Python : apprenez à utiliser BeautifulSoup, un pool de proxies et un faux user-agent](https://medium.com/france-school-of-ai/web-scraping-avec-python-apprenez-à-utiliser-beautifulsoup-proxies-et-un-faux-user-agent-d7bfb66b6556) | :fr:
+- [Travailler facilement avec les dates sur Pandas](https://medium.com/france-school-of-ai/travailler-facilement-avec-les-dates-sur-pandas-14b14b2ea51) | :fr:
 ## Framework
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://www.numpy.org/)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 # Data Visualization
 
@@ -93,7 +97,7 @@
 ## Video
 
 ## Blog
-
+- [Data visualization en Python avec des librairies telles que Matplotlib et Seaborn](https://medium.com/france-school-of-ai/data-visualization-en-python-avec-des-librairies-telles-que-matplotlib-et-seaborn-6811385df020) | :fr:
 ## Framework
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/index.html)
