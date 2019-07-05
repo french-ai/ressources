@@ -147,7 +147,7 @@ La detection d'anomalie est un catégorie de l'apprentissage non-supervisé qui 
 L'apprentissage par renforcement se base sur la réalisation d'action dans un environnement et l'acquisition de récompense.
 L'apprentissage par renforcement est souvent utilisé pour la résolution de jeux.
 
-#### L'apprentissage semi-supervisé ()
+#### L'apprentissage semi-supervisé (semi-supervised learning)
 L'apprentisage semi-supervisé est un mélange entre l'apprentissage supervisé et non-supervisé.
 Les données sont en partie labéllisées, classées ou qualifiées. 
 L'apprentissage semi-supervisé permet de réaliser des prédictions sur des jeux de données qui ne sont pas entièrement traités.
