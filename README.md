@@ -112,3 +112,43 @@
 - [Deep reinforcement learning](https://github.com/aikorea/awesome-rl) | :gb:
 - [Machine learning](https://github.com/josephmisiti/awesome-machine-learning) | :gb:
 - [Data visualization](https://github.com/fasouto/awesome-dataviz) | :gb:
+
+# FAQ
+
+## Qu'est ce le machine learning ?
+
+Machine learning (apprentissage automatique) est un champ de l'intelligence artificielle. Cela rassemble l'ensemble des méthodes statistiques qui permettent aux machines d'apprendre en fonction de données. 
+Le machine learning fonctionne généralement en deux phases. Une phase d'apprentissage où la machine va apprendre et une phase de restitution où on va pouvoir utiliser le résultat. 
+Ces méthodes peuvent être regroupées en trois groupes d'utilisation.
+
+#### L'apprentissage supervisé (supervised learning)
+L'apprentissage supervisé permet de predire des valeurs en fonction de données d'entrées.
+Les données sont labellisées, classées ou qualifiées
+
+##### Classification
+La classification est une catégorie de l'apprentissage supervisé qui a pour but de déterminer a quel ensemble les données correspondent.
+La classification est souvant utilisé pour réaliser des classification d'images
+
+##### Regression
+La régression est une catégorie de l'apprentissage supervisé qui a pour but de déterminer une valeur en fonction de données connues.
+La régression est souvant utilisé pour réaliser des prédictions.
+
+#### L’apprentissage non-supervisé (unsupervised learning)
+L'apprentissage non-supervisé se base sur la corrélation entre les données d'entrées.
+Les données sont de même type que pour l'apprentissage supervisé mais elles ne sont ni labellisées, classées ou qualifiées.
+
+##### Segmentation (clustering)
+La segmentation est une catégorie de l'apprentissage non-supervisé qui a pour but de faire resortir des groupes en fonction des ressemblances des données. 
+
+##### Detection d'anomalie (anomaly detection)
+La detection d'anomalie est un catégorie de l'apprentissage non-supervisé qui a pour but ne mettre en évidence les données qui sortent de l'ordinaire.
+
+#### L'apprentissage par renforcement (reinforcement learning)
+L'apprentissage par renforcement se base sur la réalisation d'action dans un environnement et l'acquisition de récompense.
+L'apprentissage par renforcement est souvent utilisé pour la résolution de jeux.
+
+#### L'apprentissage semi-supervisé ()
+L'apprentisage semi-supervisé est un mélange entre l'apprentissage supervisé et non-supervisé.
+Les données sont en partie labéllisées, classées ou qualifiées. 
+L'apprentissage semi-supervisé permet de réaliser des prédictions sur des jeux de données qui ne sont pas entièrement traités.
+
