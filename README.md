@@ -18,7 +18,8 @@
 
 ## Video
 
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) | Deeplearning.ai | :gb: :star: :star: :star:
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) | Deeplearning.ai | :gb: :star: :star: :star: :star: :star:
+- [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | 3Blue1Brown | :gb: :star: :star: :star:
 - [Andrew Ng course](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w) | Andrew Ng | :gb: :star:
 - [Fast ai course](https://www.youtube.com/user/howardjeremyp/playlists) | Jeremy Howard | :gb: :star:
 - [Deepmind : Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | Deepmind |:gb:
