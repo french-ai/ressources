@@ -113,7 +113,6 @@
 - [Deep reinforcement learning](https://github.com/aikorea/awesome-rl) | :gb:
 - [Machine learning](https://github.com/josephmisiti/awesome-machine-learning) | :gb:
 - [Data visualization](https://github.com/fasouto/awesome-dataviz) | :gb:
-
 # FAQ
 
 ## Qu'est ce le machine learning ?
@@ -128,7 +127,7 @@ Les données sont labellisées, classées ou qualifiées
 
 ##### Classification
 La classification est une catégorie de l'apprentissage supervisé qui a pour but de déterminer a quel ensemble les données correspondent.
-La classification est souvant utilisé pour réaliser des classification d'images
+La classification est souvent utilisé pour classer des images
 
 ##### Regression
 La régression est une catégorie de l'apprentissage supervisé qui a pour but de déterminer une valeur en fonction de données connues.
@@ -153,3 +152,19 @@ L'apprentisage semi-supervisé est un mélange entre l'apprentissage supervisé 
 Les données sont en partie labéllisées, classées ou qualifiées. 
 L'apprentissage semi-supervisé permet de réaliser des prédictions sur des jeux de données qui ne sont pas entièrement traités.
 
+
+## Qu'est ce qu'une donnée labélisée
+Une donnée labélisée est une donnée qui est associée à une autre valeur.
+Les données classifiées sont utilisées en apprentissage supervisé et semi-supervisé.
+
+### Donnée labélisée en classification
+En classification, les données sont associées à leurs classes.
+Si on cherche à savoir si une image représente un chien ou un chat. Chaque image va être associée a "chien" ou "chat".
+
+Les classes sont souvent transformés en chiffre (exemple : "chien" = 0, "chat" = 1), ou en une suite de chiffre (exemple : "chien" = [1,0], "chat" = [0,1]). Cette représentation s'appelle représsentation binaire ("one hot representation" en anglais).
+
+### Donnée labélisée en régression
+En Régression, les données sont associées à leur valeur.
+Si on cherche à prédire le prix d'une maison. L'ensemble des données d'une maison va être associé au prix.
+
+Les valeurs sont généralement des nombres réels. Ils peuvent être négatifs et sont souvent encodés en "float" informatique.
