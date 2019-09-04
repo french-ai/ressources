@@ -112,6 +112,7 @@
 - [Deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | :gb:
 - [Deep reinforcement learning](https://github.com/aikorea/awesome-rl) | :gb:
 - [Machine learning](https://github.com/josephmisiti/awesome-machine-learning) | :gb:
+- [Online/Incremental learning](https://github.com/MaxHalford/awesome-online-machine-learning) | :gb:
 - [Data visualization](https://github.com/fasouto/awesome-dataviz) | :gb:
 # FAQ
 
