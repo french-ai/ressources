@@ -27,6 +27,8 @@
 
 ## Blog
 
+* [Andrej Karpathy's blog](http://karpathy.github.io/)
+
 ## Framework
 
 - [Tensorflow](https://www.tensorflow.org/)
